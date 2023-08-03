@@ -3,8 +3,7 @@ Hello, I'm Shaik Firoz, a dedicated data scientist with a deep passion for unrav
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik--firoz) 
-[![Github](https://img.shields.io/badge/-Github-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/firozshaik1)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik--firoz/)[![Github](https://img.shields.io/badge/-Github-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/firozshaik1)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shaikfiroz12)
 
 # 💻 Tech Stack:
